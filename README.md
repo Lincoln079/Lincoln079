@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lincoln079
+- 👋 Hi, I’m Lincoln
 - 👀 I’m interested in Ferroequinologist 
 - 🌱 I’m currently learning E3D Software 
 - 💞️ I’m looking to collaborate on Higher Studies 
